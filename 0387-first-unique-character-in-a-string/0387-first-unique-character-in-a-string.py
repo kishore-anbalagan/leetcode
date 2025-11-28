@@ -1,11 +1,13 @@
 class Solution(object):
     def firstUniqChar(self, s):
-        n={}
+        """
+        :type s: str
+        :rtype: int
+        """
+        d={}
         for i in s:
-            n[i]=n.get(i,0)+1
+            d[i]=d.get(i,0)+1
         for i in range(len(s)):
-            if n[s[i]]==1:
+            if d[s[i]]==1:
                 return i
         return -1
-      
-        
