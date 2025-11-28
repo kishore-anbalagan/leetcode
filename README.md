@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kishore-anbalagan/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kishore-anbalagan/leetcode/tree/master/0022-generate-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
