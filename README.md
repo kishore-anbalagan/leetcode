@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/kishore-anbalagan/leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kishore-anbalagan/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
