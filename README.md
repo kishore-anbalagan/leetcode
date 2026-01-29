@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kishore-anbalagan/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/kishore-anbalagan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kishore-anbalagan/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1768-merge-strings-alternately](https://github.com/kishore-anbalagan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Queue
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kishore-anbalagan/leetcode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
