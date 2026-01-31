@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kishore-anbalagan/leetcode/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
