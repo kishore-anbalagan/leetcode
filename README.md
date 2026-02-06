@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/kishore-anbalagan/leetcode/tree/master/0704-binary-search) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -91,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kishore-anbalagan/leetcode/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
