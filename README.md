@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kishore-anbalagan/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kishore-anbalagan/leetcode/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kishore-anbalagan/leetcode/tree/master/0022-generate-parentheses) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
