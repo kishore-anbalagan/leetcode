@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kishore-anbalagan/leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/kishore-anbalagan/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore-anbalagan/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kishore-anbalagan/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kishore-anbalagan/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kishore-anbalagan/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/kishore-anbalagan/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/kishore-anbalagan/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
