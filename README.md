@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kishore-anbalagan/leetcode/tree/master/0392-is-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/kishore-anbalagan/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kishore-anbalagan/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/kishore-anbalagan/leetcode/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/kishore-anbalagan/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Queue
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kishore-anbalagan/leetcode/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kishore-anbalagan/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
