@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kishore-anbalagan/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/kishore-anbalagan/leetcode/tree/master/3360-stone-removal-game) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/kishore-anbalagan/leetcode/tree/master/0844-backspace-string-compare) |
+| [3360-stone-removal-game](https://github.com/kishore-anbalagan/leetcode/tree/master/3360-stone-removal-game) |
 ## Database
 |  |
 | ------- |
