@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kishore-anbalagan/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [3360-stone-removal-game](https://github.com/kishore-anbalagan/leetcode/tree/master/3360-stone-removal-game) |
+| [3870-count-commas-in-range](https://github.com/kishore-anbalagan/leetcode/tree/master/3870-count-commas-in-range) |
 ## Counting
 |  |
 | ------- |
