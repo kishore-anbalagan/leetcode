@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kishore-anbalagan/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kishore-anbalagan/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/kishore-anbalagan/leetcode/tree/master/2235-add-two-integers) |
 | [3360-stone-removal-game](https://github.com/kishore-anbalagan/leetcode/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/kishore-anbalagan/leetcode/tree/master/3870-count-commas-in-range) |
 ## Counting
