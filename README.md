@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/kishore-anbalagan/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/kishore-anbalagan/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kishore-anbalagan/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3151-special-array-i](https://github.com/kishore-anbalagan/leetcode/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
