@@ -1,6 +1,6 @@
 class Solution {
     public int maxSubarraySumCircular(int[] nums) {
-        int n=nums.length;
+        
         int sum=nums[0];//max sum
         int max=nums[0];//max sum
 
@@ -9,7 +9,7 @@ class Solution {
 
         int total=nums[0];//total
 
-        for(int i=1;i<n;i++){
+        for(int i=1;i<nums.length;i++){
             sum=Math.max(nums[i],sum+nums[i]);
             max=Math.max(sum,max);//max 
 
