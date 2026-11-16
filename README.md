@@ -238,4 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kishore-anbalagan/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kishore-anbalagan/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
