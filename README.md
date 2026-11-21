@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kishore-anbalagan/leetcode/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/kishore-anbalagan/leetcode/tree/master/0929-unique-email-addresses) |
 | [1768-merge-strings-alternately](https://github.com/kishore-anbalagan/leetcode/tree/master/1768-merge-strings-alternately) |
+| [3110-score-of-a-string](https://github.com/kishore-anbalagan/leetcode/tree/master/3110-score-of-a-string) |
 ## Queue
 |  |
 | ------- |
